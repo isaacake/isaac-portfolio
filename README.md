@@ -1,2 +1,4 @@
-# isaac-portfolio
-my personal website where i share my works to the world and show comapanies how i can help companies with their design challenges.
+# Isaac — Portfolio
+
+Static site. `index.html` is the page; `cs/` holds images and the TegaPay prototype video.
+No build step: upload or deploy this folder as-is.
